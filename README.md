@@ -52,3 +52,9 @@ NOTE: as per comment below, grid classes for a given screen size apply to that s
 NOTE: if you don't define xs, it will default to col-xs-12 (i.e. col-sm-6 is half the width on sm, md and lg screens, but full-width on xs screens).
 
 NOTE: it's actually totally fine if your .row includes more than 12 cols, as long as you are aware of how they will react. --This is a contentious issue, and not everyone agrees.
+
+
+
+# UPLOAD ON GITHUB
+
+1. https://www.youtube.com/watch?v=mPGi1IHQxFM
